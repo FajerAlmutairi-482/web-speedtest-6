@@ -7,11 +7,24 @@
  * - name إن استقبلت اسم أو "Hello <name>" تطبع
  */
 
-function greet(name) {}
+function greet(name) {
+ if (
+     name 
+
+ )
+}
 
 /*
  * isOdd(n) اسم الدالة
  * - n تستقبل رقم
  * - عدا ذلك false إن كان الرقم فردياً وترجع true ترجع القيمة
  */
-function isOdd(n) {}
+function isOdd(n) {
+    let number =n
+    if (number % 2== ){
+        console.log("even")
+        // اعرف ولله بس ماكو وقت ههه
+    }
+}
+
+
